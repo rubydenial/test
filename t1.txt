@@ -1,2 +1,3 @@
 t1 - initial text:w
-some changes
+my --amend 
+else --amend
