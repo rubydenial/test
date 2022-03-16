@@ -1,3 +1,4 @@
 t1 - initial text:w
 my --amend 
 else --amend
++1
