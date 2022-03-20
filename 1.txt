@@ -8,5 +8,3 @@ Hello GitHub !!! :)))
 Test GH Desktop 111 - 222
 
 text for rebase from master
-
-text for revert with -n
